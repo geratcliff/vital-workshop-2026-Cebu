@@ -1,0 +1,123 @@
+{
+  "index.qmd": {
+    "index.html": "80000a3b"
+  },
+  "case-studies/cs_icer.qmd": {
+    "cs_icer.html": "b48436da",
+    "cs_icer.tex": "a64cf331"
+  },
+  "case-studies/cs_decision-tree-excel.qmd": {
+    "cs_decision-tree-excel.html": "75f37820"
+  },
+  "case-studies/cs_progressive-disease.qmd": {
+    "cs_progressive-disease.html": "5be70835"
+  },
+  "case-studies/cs_markov-trace.qmd": {
+    "cs_markov-trace.html": "18100851"
+  },
+  "case-studies/cs_decision-tree-amua.qmd": {
+    "cs_decision-tree-amua.html": "29f02d48"
+  },
+  "case-studies/cs_prob-decision.qmd": {
+    "cs_prob-decision.html": "8cda7241",
+    "cs_prob-decision.docx": "b7b79abb",
+    "cs_prob-decision.tex": "a8977922"
+  },
+  "case-studies/cs_injury-decision-tree.qmd": {
+    "cs_injury-decision-tree.html": "e907e68d",
+    "cs_injury-decision-tree.docx": "d9a9e57b",
+    "cs_injury-decision-tree.tex": "a95b6f11"
+  },
+  "case-studies/space-insertion.qmd": {
+    "space-insertion.html": "1ff7677e"
+  },
+  "case-studies/cs_markov_alive-dead.qmd": {
+    "cs_markov_alive-dead.html": "7f9b1f50",
+    "cs_markov_alive-dead.docx": "f7271e43",
+    "cs_markov_alive-dead.tex": "302e4307"
+  },
+  "about.qmd": {
+    "about.html": "cae63add"
+  },
+  "capstone/04_paired-discussion.qmd": {
+    "04_paired-discussion.html": "92731464",
+    "04_paired-discussion.tex": "df06f3b6"
+  },
+  "capstone/05_design-markov.qmd": {
+    "05_design-markov.html": "9c904c21",
+    "05_design-markov.tex": "ea8c1cc3"
+  },
+  "capstone/capstone-exercises.qmd": {
+    "capstone-exercises.html": "75e432ba"
+  },
+  "capstone/03_group-work.qmd": {
+    "03_group-work.html": "2e058156",
+    "03_group-work.tex": "2d0b4139"
+  },
+  "capstone/02_decision-tree.qmd": {
+    "02_decision-tree.html": "fda6f0f5",
+    "02_decision-tree.tex": "ef85459c"
+  },
+  "capstone/06_build-markov.qmd": {
+    "06_build-markov.html": "780fece6",
+    "06_build-markov.tex": "4c344a16"
+  },
+  "capstone/01_specify-the-decision-problem.qmd": {
+    "01_specify-the-decision-problem.html": "5f782e39",
+    "01_specify-the-decision-problem.tex": "f92b0bb4"
+  },
+  "lectures/lec_parameters.qmd": {
+    "lec_parameters.html": "bc00455e"
+  },
+  "lectures/lec_dalys.qmd": {
+    "lec_dalys.html": "dfa58d52"
+  },
+  "lectures/lec_4a.trt-thresholds-voi.qmd": {
+    "lec_4a.trt-thresholds-voi.html": "f6d95532"
+  },
+  "lectures/creating-custom-fontawesome-icons.qmd": {
+    "creating-custom-fontawesome-icons.html": "1bb4312f"
+  },
+  "lectures/lec_7.MarkovModels1.qmd": {
+    "lec_7.MarkovModels1.html": "f31c6917"
+  },
+  "lectures/lec_5a.cea-fundamentals1.qmd": {
+    "lec_5a.cea-fundamentals1.html": "33e2d456"
+  },
+  "lectures/lec_advanced-modeling-techniques.qmd": {
+    "lec_advanced-modeling-techniques.html": "8ad43676"
+  },
+  "lectures/lec_1a.introduction-to-decision-analysis.qmd": {
+    "lec_1a.introduction-to-decision-analysis.html": "0ec1f478"
+  },
+  "lectures/lec_sensitivity.qmd": {
+    "lec_sensitivity.html": "bc969124"
+  },
+  "lectures/lec_day1-review.qmd": {
+    "lec_day1-review.html": "720c6dc8"
+  },
+  "lectures/lec_psa.qmd": {
+    "lec_psa.html": "6f26a523"
+  },
+  "lectures/lec_test.qmd": {
+    "lec_test.html": "9badaa7c"
+  },
+  "lectures/lec_6.ICERs.qmd": {
+    "lec_6.ICERs.html": "8afdb270"
+  },
+  "lectures/lec_2.decision-trees-and-probabilities.qmd": {
+    "lec_2.decision-trees-and-probabilities.html": "ec53252f"
+  },
+  "lectures/lec_5b.cea-fundamentals2.qmd": {
+    "lec_5b.cea-fundamentals2.html": "b0b9a743"
+  },
+  "lectures/lec_3a.bayes-probrevision.qmd": {
+    "lec_3a.bayes-probrevision.html": "265f3d53"
+  },
+  "lectures/lec_genAI.qmd": {
+    "lec_genAI.html": "16d4c3cb"
+  },
+  "lectures/lec_structure.qmd": {
+    "lec_structure.html": "bf18c205"
+  }
+}
