@@ -24,6 +24,8 @@ website:
         contents:
           - text: Draw.io
           - href: http://www.draw.io
+          - text: Canva Free
+          - href: canva.com
       - section: "Amua Resources"
         contents:
           - text: Center for Health Decision Sciences Amua Resources
@@ -48,6 +50,8 @@ website:
         href: https://journals.sagepub.com/doi/full/10.1177/0272989X221121747
       - href: about.qmd
         text: Instructors
+      - href: V3quickstartguide.pdf
+        text: Quick Start Guide
 
 format:
   html:
