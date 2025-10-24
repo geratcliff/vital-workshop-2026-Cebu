@@ -1,3 +1,0 @@
-install.packages("flextable")
-install.packages("kableExtra")
-install.packages("ggpmisc")
