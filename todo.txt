@@ -1,0 +1,29 @@
+John's To-Do list
+
+- add a piece on opening an amua model. 
+
+https://docs.google.com/document/d/15Vxo2P5sOfX43jr6Eg0gL_FFciHnr1y9JM9LIiecYqA/edit#heading=h.3rc2tosroi0n
+
+
+Deterministic sensitivity 
+  - Add a reminder to have a defined WTP in the Analysis tab
+  - add more on sampling from distributions 
+    Unif(1.1,1.3,~) ~ tells amua to sample from that distribution
+  
+Scenario Analyses
+  - Come up with some examples
+
+Threshold Analyses
+  - Come up with some examples
+  
+DALY Lecture
+  - Adapt approach 1 to use Amua output
+  - Export undiscounted and non-cycle-corrected Markov traces from Amua
+  - Do by hand in Excel
+  
+What if data aren't available? 
+  - Add a section on how to use expert opinion
+  - Add a section on how to use data from similar countries
+  
+  
+
